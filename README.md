@@ -1,3 +1,3 @@
 # Antifrajilitatea---Kodeak
-"Antifrajilitatea Sareetan" GrALeko analisiei dagokien ataleko (6. atala) irudiak sortzeko erabili diren kodeak eskuragarri daude biltegi honetan. Guztiak Pythonen lengoaian garatu dira. 
+"Antifrajilitatea Sareetan" GrALeko analisiei dagokien ataleko (6. atala) irudiak sortzeko erabili diren kodeak daude eskuragarri biltegi honetan. Guztiak Pythonen lengoaian garatu dira. 
 Geruza bakarreko ASBen eta Sare Boolear biologikoen sareak eraikitzeko kodeak eta dagokien antifrajilitatea kalkulatzekoa [Omar K. Pineda eta bere taldekideen lanetik](https://github.com/Okarim1/RBN.git) hartu dira. Geruza anitzeko sareak eraikitzeko eta dagokien antifrajilitatea kalkulatzeko beraien laneko zati batzuk berrerabili dira. Gainerakoan, ikertzaile talde horren kodeak moldatu edota berriak sortu dira. 
